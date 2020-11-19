@@ -1,0 +1,23 @@
+{
+    "name": "PEVario",
+    "version": "1.0.0",
+    "description": "Free flight variometer library",
+    "keywords": "vario, variometer, hang gliding, paragliding",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/pec1985/PEVario.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Pedro Enrique",
+        "email": "pedro.tma@gmail.com",
+        "url": "https://linkedin.com/in/pec1985"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+  }
+  
